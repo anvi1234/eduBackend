@@ -1,0 +1,12 @@
+{
+    "development":{
+        "MONGODB_URI":"mongodb+srv://anveshikagbu:Anvi1234@cluster0.4w9lwmj.mongodb.net/?retryWrites=true&w=majority",
+        "JWT_SECRET":"SECRET123",
+        "JWT_EXPIRE": "24h"
+    },
+    "production":{
+        "MONGODB_URI":"mongodb+srv://anveshikagbu:Anvi1234@cluster0.4w9lwmj.mongodb.net/?retryWrites=true&w=majority",
+        "JWT_SECRET":"SECRET123",
+        "JWT_EXPIRE": "24h"
+    }
+}
